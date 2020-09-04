@@ -1,8 +1,9 @@
 .Division-Mapa path{
-    fill: blue;
+    fill: rgb(0, 0, 255,100%);
     stroke: white;
     stroke-width: 2px;
-}
+  }
 path:hover{
-    fill: white;
+    fill: rgb(0, 0, 255,70%);
+    transition: 1.5s;
 } 
