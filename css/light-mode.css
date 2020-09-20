@@ -10,3 +10,14 @@
     background: rgb(0, 0, 255,100%);
     color: rgb(255, 255, 255);
   }
+  .Division-Mapa path{
+    fill: rgb(0, 0, 255,100%);
+    stroke: white;
+    stroke-width: 2px;
+    transition: fill 0.001s;
+}
+
+path:hover{
+    fill:grey;
+    transition: 1.0s;
+} 

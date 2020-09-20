@@ -13,6 +13,17 @@
     background: rgb(0, 0, 255,50%);
     color: rgb(255, 255, 255);
   }
-  h1,p{
+  h1,h2,p,blockquote{
     color: white;
   }
+  .Division-Mapa path{
+    fill: rgb(0, 0, 255,100%);
+    stroke: white;
+    stroke-width: 2px;
+    transition: fill 0.001s;
+}
+
+path:hover{
+    fill:grey;
+    transition: 1.0s;
+} 
