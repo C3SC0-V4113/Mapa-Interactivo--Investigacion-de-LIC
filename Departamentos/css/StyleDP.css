@@ -1,0 +1,57 @@
+
+ /*San Salvador */
+
+ 
+
+
+
+
+.mapdivss{
+    width: 60%;
+    margin: left;
+}
+
+.mapdivss path{
+fill: gray;
+stroke: #dece0c;
+stroke-width: 4px;
+transition: fill 0.3s;
+}
+
+.mapdivss :hover{
+
+fill : blue;
+
+}
+
+
+
+h2 {
+    color: black;
+    font-weight: normal;
+    font-size: 60px;
+    font-family: Impact, Charcoal, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    background-color:rgba(166, 166, 166, 0.5);
+  }
+  
+h1 {
+ 
+  text-align: center;
+  background-color:rgba(166, 166, 166, 0.5);
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+
+
+
+#img-center{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.p{
+  color:white;
+}

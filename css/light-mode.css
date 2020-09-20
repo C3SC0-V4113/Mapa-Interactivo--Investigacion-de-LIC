@@ -1,0 +1,12 @@
+ button {
+    padding: 10px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 1em;
+    margin: 1%;
+  }
+  button:hover {
+    background: rgb(0, 0, 255,100%);
+    color: rgb(255, 255, 255);
+  }
