@@ -17,6 +17,12 @@ button:hover {
     transition: fill 0.001s;
 }
 
+h5{
+  color: white;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 0.5px;
+}
+
 path:hover{
     fill:grey;
     transition: 1.0s;
