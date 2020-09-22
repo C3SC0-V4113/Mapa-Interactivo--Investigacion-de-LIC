@@ -92,14 +92,61 @@
             </div>
           </div>
           <h2>Centros Turisticos</h2>
-          <div class="list-group">
-            <a class="list-group-item list-group-item-action">Los Ausoles</a>
-            <a class="list-group-item list-group-item-action">Laguna el Espino</a>
-            <a class="list-group-item list-group-item-action">Plaza Mayor</a>
-            <a class="list-group-item list-group-item-action">La Parroquia de La Asunción</a>
-            <a class="list-group-item list-group-item-action">Parque concordia</a>
-            <a class="list-group-item list-group-item-action">Pasaje La Concordia</a>
+
+          
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img class="d-block w-100" onclick="ImagenModal(this)" id="myImg" src="img/Auachapán/800px-Ausoles.jpg" alt="Los Ausoles">
+              <div class="carousel-caption d-none d-md-block">
+                <h5>Los Ausoles</h5>
+              </div>
+            </div>
+            <div class="carousel-item active">
+              <img class="d-block w-100" onclick="ImagenModal(this)" id="myImg" src="img/Auachapán/laguna-el-espino-1.jpg" alt="Laguna del Espino">
+              <div class="carousel-caption d-none d-md-block">
+                <h5>Laguna del Espino</h5>
+              </div>
+            </div>
+            <div class="carousel-item active">
+              <img class="d-block w-100" onclick="ImagenModal(this)" id="myImg" src="img/Auachapán/Ahuachapán-plaza mayor.jpg" alt="Plaza Mayor">
+              <div class="carousel-caption d-none d-md-block">
+                <h5>Plaza Mayor</h5>
+              </div>
+            </div>
+            <div class="carousel-item active">
+              <img class="d-block w-100" onclick="ImagenModal(this)" id="myImg" src="img/Auachapán/jalostotitlan.jpg" alt="Parroquia de la Asunción">
+              <div class="carousel-caption d-none d-md-block">
+                <h5>Parroquia de la Asunción</h5>
+              </div>
+            </div>
+            <div class="carousel-item active">
+              <img class="d-block w-100" onclick="ImagenModal(this)" id="myImg" src="img/Auachapán/concordia.jpg" alt="Parque Concordia">
+              <div class="carousel-caption d-none d-md-block">
+                <h5>Parque Concordia</h5>
+              </div>
+            </div>
+            <div class="carousel-item active">
+              <img class="d-block w-100" onclick="ImagenModal(this)" id="myImg" src="img/Auachapán/pasaje concordia.jpg" alt="Pasaje de la Concordia">
+              <div class="carousel-caption d-none d-md-block">
+                <h5>Pasaje de la Concordia</h5>
+              </div>
+            </div>
           </div>
+          <a class="carousel-control-prev" href="#Carrusel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#Carrusel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+        <div id="myModal" class="modal">
+          <span class="close">&times;</span>
+          <img class="modal-content" id="img01">
+          <div id="caption"></div>
+        </div>
+
         </div>
         <div class="row">
           <div class="col-12 text-center">
