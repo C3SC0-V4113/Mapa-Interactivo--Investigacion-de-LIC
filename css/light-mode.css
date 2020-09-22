@@ -1,23 +1,46 @@
- button {
-    padding: 10px;
-    background-color: #000;
-    color: #fff;
-    border-radius: 3px;
-    font-size: 1em;
-    margin: 1%;
-  }
-  button:hover {
-    background: rgb(0, 0, 255,100%);
-    color: rgb(255, 255, 255);
-  }
-  .Division-Mapa path{
-    fill: rgb(0, 0, 255,100%);
-    stroke: white;
-    stroke-width: 2px;
-    transition: fill 0.001s;
+/**Utilidades**/
+.espacio {
+  margin: 2%;
+}
+.degradadoh1 {
+  background: linear-gradient(blue, #25E999);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.border1{
+  display:block;
+  border:2px solid black;
+  padding: 2%;
+  margin: 2%;
+  background-color: rgb(0, 0, 255,15%);
 }
 
-path:hover{
-    fill:grey;
-    transition: 1.0s;
-} 
+/****/
+
+
+
+button {
+  padding: 10px;
+  background-color: #000;
+  color: #fff;
+  border-radius: 3px;
+  font-size: 1em;
+  margin: 1%;
+}
+
+button:hover {
+  background: rgb(0, 0, 255, 100%);
+  color: rgb(255, 255, 255);
+}
+
+.Division-Mapa path {
+  fill: rgb(0, 0, 255, 100%);
+  stroke: white;
+  stroke-width: 2px;
+  transition: fill 0.001s;
+}
+
+path:hover {
+  fill: grey;
+  transition: 1.0s;
+}

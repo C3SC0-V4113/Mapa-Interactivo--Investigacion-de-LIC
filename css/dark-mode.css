@@ -1,4 +1,21 @@
- body {
+/**Utilidades**/
+.espacio{
+  margin: 2%;
+}
+
+/****/
+.degradadoh1{
+  background: linear-gradient(blue, #25E999);
+  -webkit-background-clip: text;
+    color: transparent;
+ }
+ .border1{
+    border:2px solid white;
+    padding: 2%;
+    margin: 2%;
+    background-color: rgb(169, 169, 169,10%);
+ }
+body {
     background: rgb(19, 18, 18);
   }
   button {
@@ -13,7 +30,7 @@
     background: rgb(0, 0, 255,50%);
     color: rgb(255, 255, 255);
   }
-  h1,h2,p,blockquote{
+  h1,h2,p,blockquote,h4{
     color: white;
   }
   .Division-Mapa path{
