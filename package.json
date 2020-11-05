@@ -16,5 +16,8 @@
     "url": "https://github.com/C3SC0-V4113/Mapa-Interactivo--Investigacion-de-LIC/issues"
   },
   "homepage": "https://github.com/C3SC0-V4113/Mapa-Interactivo--Investigacion-de-LIC#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
