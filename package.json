@@ -1,7 +1,6 @@
 {
   "name": "Mapa-Interactivo--Investigacion-de-LIC",
   "version": "1.0.0",
-  "description": "",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/C3SC0-V4113/Mapa-Interactivo--Investigacion-de-LIC/issues"
   },
-  "homepage": "https://github.com/C3SC0-V4113/Mapa-Interactivo--Investigacion-de-LIC#readme"
+  "homepage": "https://github.com/C3SC0-V4113/Mapa-Interactivo--Investigacion-de-LIC#readme",
+  "description": ""
 }
