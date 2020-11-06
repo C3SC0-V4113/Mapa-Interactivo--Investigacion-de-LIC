@@ -79,6 +79,480 @@
                     "Imagen":"img/Cabañas/los tercios.jpg"
                 }
             ]
+        },
+        {
+            "Nombre":"Chalatenango",
+            "Descripcion":"Chalatenango (Chalatenango es la cabecera del Departamento homónimo de El Salvador. Su territorio se divide en 6 cantones y 36 caseríos. En 2007 la población era de 29 271 habitantes según censo de 2007. La extensión territorial del municipio está distribuida de tal manera que tiene un área rural de 131,05 km² aproximadamente y un área urbana de 0,75 km² aproximadamente.)",
+            "Historia":"Esta población fue fundada en tiempos de la época precolombina por tribus lencas, pero a fines del siglo XV fue sometida por pipiles procedentes de Cuzcatlán. A la llegada de los españoles según Will Fowler, Chalatenango estaba habitado por tres etnias, pipiles, chortís y lencas, desafortunadamente no existe suficiente evidencia para validar la hipótesis de heterogeneidad de la zona, por otro lado no significa negar la posibilidad de existencia de dos o más grupos distinto en el mismo territorio. Sin embargo existe evidencia arqueológica y lingüística que demuestra que la zona oriental del río Lempa estaba habitada por una agrupación heterogénea de pueblos lencas, xinca, pocomanes, chortís y matagalpas. (Hayden White 1973, citado por Paul Amaroli 1991). En 1550 tenía unos 600 habitantes. El alcalde mayor de San Salvador, don Manuel de Gálvez de Corral, escribió en 1740 que San Juan Chalatenango tenía unos 125 habitantes, pues contaba con 25 indios tributarios o jefes de familias. En 1770, según el arzobispo don Pedro Cortés y Larraz, era cabecera del curato de su mismo nombre que comprendía a los pueblos de Arcatao, Concepción Quezaltepeque y Techonchogo (hoy San Miguel de Mercedes), más 56 haciendas con prósperos valles y aldeas. Los Alcaldes Ordinarios electos en el 1 de enero de 1803 para regir ese mismo año eran don José García Machón, Alcalde de primer voto, y don Francisco Velasco, Alcalde de segundo voto.",
+            "ImagenDepartamental":"img/Chalatenango/unnamed.png",
+            "Municipios":[
+                {"Nombre":"Chalatenango"},
+                {"Nombre":"Agua Caliente"},
+                {"Nombre":"Arcatao"},
+                {"Nombre":"Azacualpa"},
+                {"Nombre":"Citalá"},
+                {"Nombre":"Comalapa"},
+                {"Nombre":"Concepción Quezaltepeque"},
+                {"Nombre":"Dulce Nombre de María"},
+                {"Nombre":"El Carrizal"},
+                {"Nombre":"El Paraíso"},
+                {"Nombre":"La Laguna"},
+                {"Nombre":"La Palma"},
+                {"Nombre":"La Reina"},
+                {"Nombre":"Las Vueltas"},
+                {"Nombre":"Nombre de Jesús"},
+                {"Nombre":"Nueva Concepción"},
+                {"Nombre":"Nueva Trinidad"},
+                {"Nombre":"Ojos de Agua"},
+                {"Nombre":"Potonico"},
+                {"Nombre":"San Antonio de La Cruz"},
+                {"Nombre":"San Antonio Los Ranchos"},
+                {"Nombre":"San Fernando"},
+                {"Nombre":"San Francisco Lempa"},
+                {"Nombre":"San Francisco Morazán"},
+                {"Nombre":"San Ignacio"},
+                {"Nombre":"San Isidro Labrador"},
+                {"Nombre":"San José Cancasque"},
+                {"Nombre":"San José Las Flores"},
+                {"Nombre":"San Luis del Carmen"},
+                {"Nombre":"San Miguel de Mercedes"},
+                {"Nombre":"San Rafael"},
+                {"Nombre":"Santa Rita"},
+                {"Nombre":"Tejutla"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Chalatenango",
+                    "Imagen":"https://upload.wikimedia.org/wikipedia/commons/8/80/Chalatenango%2C_El_Salvador_-_panoramio_-_MARVIN_SOLIS_%281%29.jpg"
+                },
+                {
+                    "Nombre":"San Fernando",
+                    "Imagen":"https://www.ecured.cu/images/1/1f/San-fernando-chalatenango.jpg"
+                },
+                {
+                    "Nombre":"Santa Rita",
+                    "Imagen":"https://elsalvadoreshermoso.com/wp-content/uploads/2016/09/santa-rita-municipio-chalatenango-El-Salvador-800x600.jpg"
+                }
+            ]
+        },
+        {
+            "Nombre":"Cuscatlan",
+            "Descripcion":"Cuscatlán es un departamento que se ubica en la zona central de El Salvador. Este departamento posee los siguientes límites geográficos: al norte con el departamento de Chalatenango, al sur con La Paz y San Vicente, al este por los departamentos de Cabañas y San Vicente, y al oeste con San Salvador.",
+            "Historia":"El departamento fue constituido durante la administración del Jefe de Estado Nicolás Espinoza, por Decreto Ejecutivo el 22 de mayo de 1835. Originalmente Suchitoto fue su cabecera, pero a partir del 12 de noviembre de 1861 es la ciudad de Cojutepeque. Es de origen náhua, Kuskat, 'collar,piedra preciosa, tesoro' y Tan 'locativo'. Etimológicamente significaría: 'lugar de algo precioso'. Su topónimo es: Kuskatan. Se encuentra situado en la región central del país y limita al N y NE con el departamento de Chalatenango, al E con Cabañas, al SE con San Vicente, al S con el Lago de Ilopango y el departamento de La Paz y, por último, al O con el departamento de San Salvador. En el N el valle del río Lempa origina una región plana y fértil, apropiada para la actividad agrícola. El centro y sur del departamento, en cambio, son más montañosos. El departamento comprende una superficie de 756 km² y tiene una población estimada de 216.446 habitantes (2007).",
+            "ImagenDepartamental":"https://lh6.googleusercontent.com/-_5xAq-x0bwU/VOae7FC7UVI/AAAAAAAAHuM/OQdnhr8lJQY/s376/mapa-del-departamento-de-cuscatlan.png",
+            "Municipios":[
+                {"Nombre":"Cojutepeque"},
+                {"Nombre":"Candelaria"},
+                {"Nombre":"El Carmen"},
+                {"Nombre":"El Rosario"},
+                {"Nombre":"Monte San Juan"},
+                {"Nombre":"Oratorio de Concepción"},
+                {"Nombre":"San Bartolomé Perulapía"},
+                {"Nombre":"San Cristóbal"},
+                {"Nombre":"San José Guayabal"},
+                {"Nombre":"San Pedro Perulapán"},
+                {"Nombre":"San Rafael Cedros"},
+                {"Nombre":"San Ramón"},
+                {"Nombre":"Santa Cruz Analquito"},
+                {"Nombre":"Santa Cruz Michapa"},
+                {"Nombre":"Suchitoto"},
+                {"Nombre":"Tenancingo"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Santa Lucía",
+                    "Imagen":"img/Cuscatlán/santa lucia.jpg"
+                },
+                {
+                    "Nombre":"Cascada Los Tercios",
+                    "Imagen":"img/Cuscatlán/los tercios.jpg"
+                },
+                {
+                    "Nombre":"Capilla de San Jose",
+                    "Imagen":"img/Cuscatlán/capilla-san-jose.jpg"
+                },
+                {
+                    "Nombre":"Casa De Alejandro Cotto",
+                    "Imagen":"img/Cuscatlán/jardin-4-casa-alejandro-cotto.jpg"
+                }
+            ]
+        },
+        {
+            "Nombre":"La Libertad",
+            "Descripcion":"la Libertad es un departamento de El Salvador. Su Cabecera es la ciudad de Santa Tecla, Cabecera también del municipio homónimo. Tiene una extensión territorial de 1653 km² y una población de 843 500 habitantes (censo oficial, 2018).",
+            "Historia":"El departamento fue creado en 1865 por un decreto legislativo que fue publicado en el periódico oficial del gobierno 'El Constitucional' Tomo 1, Número 70, en el 9 de febrero de 1865. De acuerdo con la estadística del departamento de La Libertad hecha por el gobernador José López en el 23 de mayo de 1865, el departamento tenía una población de 16 759 personas.",
+            "ImagenDepartamental":"https://lh5.googleusercontent.com/-dVbhpx6vTKI/VOadsb2R_sI/AAAAAAAAHt4/3F7_pCgAyOw/s462/mapa-del-departamento-de-la-libertad.png",
+            "Municipios":[
+                {"Nombre":"Antiguo Cuscatlán"},
+                {"Nombre":"Santa Tecla"},
+                {"Nombre":"Antiguo Cuscatlán"},
+                {"Nombre":"Chiltiupán"},
+                {"Nombre":"Ciudad Arce"},
+                {"Nombre":"Colón"},
+                {"Nombre":"Comasagua"},
+                {"Nombre":"Huizúcar"},
+                {"Nombre":"Jayaque"},
+                {"Nombre":"Jicalapa"},
+                {"Nombre":"Nuevo Cuscatlán"},
+                {"Nombre":"Puerto de la Libertad"},
+                {"Nombre":"Quezaltepeque"},
+                {"Nombre":"Sacacoyo"},
+                {"Nombre":"San Juan Opico"},
+                {"Nombre":"San Matías"},
+                {"Nombre":"San Pablo Tacachico"},
+                {"Nombre":"Talnique"},
+                {"Nombre":"Tamanique"},
+                {"Nombre":"Teotepeque"},
+                {"Nombre":"Tepecoyo"},
+                {"Nombre":"Zaragoza"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Playa El Tunco",
+                    "Imagen":"img/La Libertad/Playa-el-Tunco.jpg"
+                },
+                {
+                    "Nombre":"Playa El Sunzal",
+                    "Imagen":"img/La Libertad/el sunzal.jpg"
+                },
+                {
+                    "Nombre":"Playa San Blas",
+                    "Imagen":"img/La Libertad/playa-san-blas-el-salvador.jpg"
+                },
+                {
+                    "Nombre":"Playa La Perla",
+                    "Imagen":"img/La Libertad/la perla.jpg"
+                },
+                {
+                    "Nombre":"Parque nacional Walter Thilo Deininger",
+                    "Imagen":"img/La Libertad/walter thilo dininger.jpg"
+                }
+            ]
+        },
+        {
+            "Nombre":"La Paz",
+            "Descripcion":"La Paz es un departamento de El Salvador que se ubica en la zona central del país. Sus límites geográficos son los siguientes: al norte con Cuscatlán, al este con San Vicente, al sur con el Océano Pacífico y al oeste con San Salvador. El departamento de La Paz se encuentra a una altitud de 220 metros sobre el nivel del mar y posee una extensión territorial de 1,223 kilómetros cuadrados.",
+            "Historia":"El territorio del departamento, de acuerdo con los restos arqueológicos hallados en el sector comprendido entre los ríos Lempa y Jiboa, estuvo poblado por comunidades mayances hasta fines del siglo XI. Por entonces se produjo la primera oleada invasora de pueblos nahuas mesoamericanos. Tras la ocupación tolteca, en cuyo proceso de asentamiento tendieron a mezclarse con las tribus locales, se establecieron cuatro siglos más tarde los nonualcos, pertenecientes al grupo náhua de kuskatan. A ellos se debe la fundación o repoblación de núcleos urbanos como los de Cuyultitán, Analco, Tecoluca, Santiago, San Pedro, San Juan Nonualco, Santa María Ostuma y Zacatecoluca. Esta última población era, en tiempos de la colonia, una de las cuatro urbes precolombinas de mayor importancia del país y, como tal, fue designada cabecera de partido en 1786. En 1814, la ciudad de Zacatecoluca protagonizó uno de los episodios más significativos del movimiento independentista salvadoreño, cuando los nonualcos se alzaron en armas, tomaron la población y obligaron a su intendente a proclamar la emancipación. Una vez lograda ésta, la creciente población y riqueza de Zacatecoluca determinó que en 1823 la población fuera elevada a la categoría de villa, alcanzando la de ciudad en 1844. En 1852, el gobierno de Francisco Dueñas creó el departamento a partir de territorio que desde 1824 era parte del ",
+            "ImagenDepartamental":"https://lh6.googleusercontent.com/-7BhDG6-i50U/VOafvF0XzdI/AAAAAAAAHuU/mK4cPyBcMYc/s406/mapa-del-departamento-de-la-paz.png",
+            "Municipios":[
+                {"Nombre":"Zacatecoluca"},
+                {"Nombre":"Cuyultitán"},
+                {"Nombre":"El Rosario"},
+                {"Nombre":"Jerusalén"},
+                {"Nombre":"Mercedes La Ceiba"},
+                {"Nombre":"Olocuilta"},
+                {"Nombre":"Paraíso de Osorio"},
+                {"Nombre":"San Antonio Masahuat"},
+                {"Nombre":"San Emigdio"},
+                {"Nombre":"San Francisco Chinameca"},
+                {"Nombre":"San Pedro Masahuat"},
+                {"Nombre":"San Juan Nonualco"},
+                {"Nombre":"San Juan Talpa"},
+                {"Nombre":"San Juan Tepezontes"},
+                {"Nombre":"San Luis La Herradura"},
+                {"Nombre":"San Luis Talpa"},
+                {"Nombre":"San Miguel Tepezontes"},
+                {"Nombre":"San Pedro Nonualco"},
+                {"Nombre":"San Rafael Obrajuelo"},
+                {"Nombre":"Santa María Ostuma"},
+                {"Nombre":"Santiago Nonualco"},
+                {"Nombre":"Tapalhuaca"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Costa del Sol",
+                    "Imagen":"img/La Paz/Conta-del-Sol-El-Salvador-Avanza.jpg"
+                },
+                {
+                    "Nombre":"Ichanmichen",
+                    "Imagen":"img/La Paz/Ichanmichen-2.jpg"
+                },
+                {
+                    "Nombre":"San Juan Tepezontes",
+                    "Imagen":"img/La Paz/san-juan-tepezontes-la-paz.jpg"
+                }
+            ]
+        },
+        {
+            "Nombre":"La Union",
+            "Descripcion":"La Unión es un departamento de la zona oriental de El Salvador. Es el más oriental de los departamentos salvadoreños y el que posee en su jurisdicción las aguas e islas cuzcatlecas del Golfo de Fonseca, bahía compartida con Honduras y Nicaragua. En este departamento y golfo se encuentra el único municipio insular de El Salvador, Meanguera del Golfo. Su cabecera departamental es la ciudad y puerto de La Unión.",
+            "Historia":"Fue erigido durante la administración del licenciado Francisco Dueñas, por Decreto Ejecutivo de 22 de junio de 1865.",
+            "ImagenDepartamental":"https://lh5.googleusercontent.com/-UKst2L9Anpc/VOal7APiCXI/AAAAAAAAHvU/E2LEcs3qOS8/s495/mapa-del-departamento-de-la-union.png",
+            "Municipios":[
+                {"Nombre":"La Unión"},
+                {"Nombre":"San Alejo"},
+                {"Nombre":"Yucuaiquín"},
+                {"Nombre":"Conchagua"},
+                {"Nombre":"Intipucá"},
+                {"Nombre":"San José"},
+                {"Nombre":"El Carmen"},
+                {"Nombre":"Bolívar"},
+                {"Nombre":"Meanguera del Golfo"},
+                {"Nombre":"Santa Rosa de Lima"},
+                {"Nombre":"Pasaquina"},
+                {"Nombre":"Anamoros"},
+                {"Nombre":"Nueva Esparta"},
+                {"Nombre":"Concepción de Oriente"},
+                {"Nombre":"Polorós"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Volcan De Conchagua",
+                    "Imagen":"http://1.bp.blogspot.com/_MQO6u6zH9UA/RoksIiy_kuI/AAAAAAAAACY/VhJGbbkdNw4/s320/volcanconchagua.jpg"
+                },
+                {
+                    "Nombre":"Playa El Icacal",
+                    "Imagen":"https://i.pinimg.com/originals/aa/fc/e3/aafce38309ac89752474b29be4b33ee8.jpg"
+                }
+            ]
+        },
+        {
+            "Nombre":"Cabañas",
+            "Descripcion":"Cabañas es un departamento de El Salvador que pertenece a la zona central del país. Sus límites geográficos son: al norte y noreste por el río Lempa, que sirve como linea divisoria entre El Salvador y Honduras, al este por San Miguel, al sur por San Vicente y al oeste por Cuscatlán. En realidad este es uno de los departamentos más jóvenes de El Salvador. Su creación data del 10 de febrero de 1873, siendo su cabecera Sensuntepeque. Otra ciudad importantes es Ilobasco, cuna de los muñecos y de las figuras de barro.",
+            "Historia":"Según uno de sus biógrafos, el general hondureño José Trinidad Cabañas; 'era centroamericano por sus ideales y aspiraciones a las que dedicó su vida.' Esto inspiró a los legisladores del país quienes, queriendo honrar la memoria de este valeroso soldado bautizaron con su nombre este departamento el 10 de febrero de 1873 por medio de Decreto Legislativo. Los historiadores afirman que el General Cabañas, peleó al lado del General Francisco Morazán, a quien logró rescatar el 14 de septiembre de 1842, cuando se encontraba situado en San José, Costa Rica. En 1852, el Gral. Cabañas asumió la presidencia de Honduras y luego fue derrocado. Estuvo también al servicio del Gral. Gerardo Barrios, de quien era cuñado. Después de la trágica muerte del patriota Barrios, en 1865, José Trinidad Cabañas se retiró en condiciones precarias, pero con dignidad a Honduras, donde murió el año de 1871. Por decreto legislativo número 262 emitido el 1 de febrero de 1973 y ratificado por el presidente Arturo Armando Molina en el 5 de febrero, a iniciativa del diputado por el departamento de Cabañas don Miguel Apolonio Arévalo Peña, se declaró fiesta nacional el día 10 de febrero de ese año para celebrar el primer centenario de haberse erigido el departamento.2 El actual gobernador departamental es el médico Vicente Rovira Guzmán nombrado en julio de 2009, por el presidente de El Salvador, Mauricio Funes dato desactualizado . El exgobernador departamental por los años 1994-2003, José Arturo Vásquez Machado, fue asesinado el 9 de noviembre de 2009 en la capital San Salvador.",
+            "ImagenDepartamental":"https://lh5.googleusercontent.com/-tDRKcnAhl5s/VOagc5kTnhI/AAAAAAAAHug/oadZijQKBQM/s376/mapa-del-departamento-de-cabanas.png",
+            "Municipios":[
+                {"Nombre":"Cinquera"},
+                {"Nombre":"Dolores"},
+                {"Nombre":"Guacotecti"},
+                {"Nombre":"Ilobasco"},
+                {"Nombre":"Jutiapa"},
+                {"Nombre":"San Isidro"},
+                {"Nombre":"Sensuntepeque"},
+                {"Nombre":"Tejutepeque"},
+                {"Nombre":"Victoria"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Museo del Agua",
+                    "Imagen":"img/Cabañas/cropped-14925816_340689722957103_4278930856290025242_n.jpg"
+                },
+                {
+                    "Nombre":"Parque Ecologico Bosque De Cinquera",
+                    "Imagen":"img/Cabañas/cinquera5_1.jpg"
+                },
+                {
+                    "Nombre":"Cascada Los Tercios",
+                    "Imagen":"img/Cabañas/los tercios.jpg"
+                }
+            ]
+        },
+        {
+            "Nombre":"Cabañas",
+            "Descripcion":"Cabañas es un departamento de El Salvador que pertenece a la zona central del país. Sus límites geográficos son: al norte y noreste por el río Lempa, que sirve como linea divisoria entre El Salvador y Honduras, al este por San Miguel, al sur por San Vicente y al oeste por Cuscatlán. En realidad este es uno de los departamentos más jóvenes de El Salvador. Su creación data del 10 de febrero de 1873, siendo su cabecera Sensuntepeque. Otra ciudad importantes es Ilobasco, cuna de los muñecos y de las figuras de barro.",
+            "Historia":"Según uno de sus biógrafos, el general hondureño José Trinidad Cabañas; 'era centroamericano por sus ideales y aspiraciones a las que dedicó su vida.' Esto inspiró a los legisladores del país quienes, queriendo honrar la memoria de este valeroso soldado bautizaron con su nombre este departamento el 10 de febrero de 1873 por medio de Decreto Legislativo. Los historiadores afirman que el General Cabañas, peleó al lado del General Francisco Morazán, a quien logró rescatar el 14 de septiembre de 1842, cuando se encontraba situado en San José, Costa Rica. En 1852, el Gral. Cabañas asumió la presidencia de Honduras y luego fue derrocado. Estuvo también al servicio del Gral. Gerardo Barrios, de quien era cuñado. Después de la trágica muerte del patriota Barrios, en 1865, José Trinidad Cabañas se retiró en condiciones precarias, pero con dignidad a Honduras, donde murió el año de 1871. Por decreto legislativo número 262 emitido el 1 de febrero de 1973 y ratificado por el presidente Arturo Armando Molina en el 5 de febrero, a iniciativa del diputado por el departamento de Cabañas don Miguel Apolonio Arévalo Peña, se declaró fiesta nacional el día 10 de febrero de ese año para celebrar el primer centenario de haberse erigido el departamento.2 El actual gobernador departamental es el médico Vicente Rovira Guzmán nombrado en julio de 2009, por el presidente de El Salvador, Mauricio Funes dato desactualizado . El exgobernador departamental por los años 1994-2003, José Arturo Vásquez Machado, fue asesinado el 9 de noviembre de 2009 en la capital San Salvador.",
+            "ImagenDepartamental":"https://lh5.googleusercontent.com/-tDRKcnAhl5s/VOagc5kTnhI/AAAAAAAAHug/oadZijQKBQM/s376/mapa-del-departamento-de-cabanas.png",
+            "Municipios":[
+                {"Nombre":"Cinquera"},
+                {"Nombre":"Dolores"},
+                {"Nombre":"Guacotecti"},
+                {"Nombre":"Ilobasco"},
+                {"Nombre":"Jutiapa"},
+                {"Nombre":"San Isidro"},
+                {"Nombre":"Sensuntepeque"},
+                {"Nombre":"Tejutepeque"},
+                {"Nombre":"Victoria"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Museo del Agua",
+                    "Imagen":"img/Cabañas/cropped-14925816_340689722957103_4278930856290025242_n.jpg"
+                },
+                {
+                    "Nombre":"Parque Ecologico Bosque De Cinquera",
+                    "Imagen":"img/Cabañas/cinquera5_1.jpg"
+                },
+                {
+                    "Nombre":"Cascada Los Tercios",
+                    "Imagen":"img/Cabañas/los tercios.jpg"
+                }
+            ]
+        },
+        {
+            "Nombre":"Cabañas",
+            "Descripcion":"Cabañas es un departamento de El Salvador que pertenece a la zona central del país. Sus límites geográficos son: al norte y noreste por el río Lempa, que sirve como linea divisoria entre El Salvador y Honduras, al este por San Miguel, al sur por San Vicente y al oeste por Cuscatlán. En realidad este es uno de los departamentos más jóvenes de El Salvador. Su creación data del 10 de febrero de 1873, siendo su cabecera Sensuntepeque. Otra ciudad importantes es Ilobasco, cuna de los muñecos y de las figuras de barro.",
+            "Historia":"Según uno de sus biógrafos, el general hondureño José Trinidad Cabañas; 'era centroamericano por sus ideales y aspiraciones a las que dedicó su vida.' Esto inspiró a los legisladores del país quienes, queriendo honrar la memoria de este valeroso soldado bautizaron con su nombre este departamento el 10 de febrero de 1873 por medio de Decreto Legislativo. Los historiadores afirman que el General Cabañas, peleó al lado del General Francisco Morazán, a quien logró rescatar el 14 de septiembre de 1842, cuando se encontraba situado en San José, Costa Rica. En 1852, el Gral. Cabañas asumió la presidencia de Honduras y luego fue derrocado. Estuvo también al servicio del Gral. Gerardo Barrios, de quien era cuñado. Después de la trágica muerte del patriota Barrios, en 1865, José Trinidad Cabañas se retiró en condiciones precarias, pero con dignidad a Honduras, donde murió el año de 1871. Por decreto legislativo número 262 emitido el 1 de febrero de 1973 y ratificado por el presidente Arturo Armando Molina en el 5 de febrero, a iniciativa del diputado por el departamento de Cabañas don Miguel Apolonio Arévalo Peña, se declaró fiesta nacional el día 10 de febrero de ese año para celebrar el primer centenario de haberse erigido el departamento.2 El actual gobernador departamental es el médico Vicente Rovira Guzmán nombrado en julio de 2009, por el presidente de El Salvador, Mauricio Funes dato desactualizado . El exgobernador departamental por los años 1994-2003, José Arturo Vásquez Machado, fue asesinado el 9 de noviembre de 2009 en la capital San Salvador.",
+            "ImagenDepartamental":"https://lh5.googleusercontent.com/-tDRKcnAhl5s/VOagc5kTnhI/AAAAAAAAHug/oadZijQKBQM/s376/mapa-del-departamento-de-cabanas.png",
+            "Municipios":[
+                {"Nombre":"Cinquera"},
+                {"Nombre":"Dolores"},
+                {"Nombre":"Guacotecti"},
+                {"Nombre":"Ilobasco"},
+                {"Nombre":"Jutiapa"},
+                {"Nombre":"San Isidro"},
+                {"Nombre":"Sensuntepeque"},
+                {"Nombre":"Tejutepeque"},
+                {"Nombre":"Victoria"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Museo del Agua",
+                    "Imagen":"img/Cabañas/cropped-14925816_340689722957103_4278930856290025242_n.jpg"
+                },
+                {
+                    "Nombre":"Parque Ecologico Bosque De Cinquera",
+                    "Imagen":"img/Cabañas/cinquera5_1.jpg"
+                },
+                {
+                    "Nombre":"Cascada Los Tercios",
+                    "Imagen":"img/Cabañas/los tercios.jpg"
+                }
+            ]
+        },
+        {
+            "Nombre":"Cabañas",
+            "Descripcion":"Cabañas es un departamento de El Salvador que pertenece a la zona central del país. Sus límites geográficos son: al norte y noreste por el río Lempa, que sirve como linea divisoria entre El Salvador y Honduras, al este por San Miguel, al sur por San Vicente y al oeste por Cuscatlán. En realidad este es uno de los departamentos más jóvenes de El Salvador. Su creación data del 10 de febrero de 1873, siendo su cabecera Sensuntepeque. Otra ciudad importantes es Ilobasco, cuna de los muñecos y de las figuras de barro.",
+            "Historia":"Según uno de sus biógrafos, el general hondureño José Trinidad Cabañas; 'era centroamericano por sus ideales y aspiraciones a las que dedicó su vida.' Esto inspiró a los legisladores del país quienes, queriendo honrar la memoria de este valeroso soldado bautizaron con su nombre este departamento el 10 de febrero de 1873 por medio de Decreto Legislativo. Los historiadores afirman que el General Cabañas, peleó al lado del General Francisco Morazán, a quien logró rescatar el 14 de septiembre de 1842, cuando se encontraba situado en San José, Costa Rica. En 1852, el Gral. Cabañas asumió la presidencia de Honduras y luego fue derrocado. Estuvo también al servicio del Gral. Gerardo Barrios, de quien era cuñado. Después de la trágica muerte del patriota Barrios, en 1865, José Trinidad Cabañas se retiró en condiciones precarias, pero con dignidad a Honduras, donde murió el año de 1871. Por decreto legislativo número 262 emitido el 1 de febrero de 1973 y ratificado por el presidente Arturo Armando Molina en el 5 de febrero, a iniciativa del diputado por el departamento de Cabañas don Miguel Apolonio Arévalo Peña, se declaró fiesta nacional el día 10 de febrero de ese año para celebrar el primer centenario de haberse erigido el departamento.2 El actual gobernador departamental es el médico Vicente Rovira Guzmán nombrado en julio de 2009, por el presidente de El Salvador, Mauricio Funes dato desactualizado . El exgobernador departamental por los años 1994-2003, José Arturo Vásquez Machado, fue asesinado el 9 de noviembre de 2009 en la capital San Salvador.",
+            "ImagenDepartamental":"https://lh5.googleusercontent.com/-tDRKcnAhl5s/VOagc5kTnhI/AAAAAAAAHug/oadZijQKBQM/s376/mapa-del-departamento-de-cabanas.png",
+            "Municipios":[
+                {"Nombre":"Cinquera"},
+                {"Nombre":"Dolores"},
+                {"Nombre":"Guacotecti"},
+                {"Nombre":"Ilobasco"},
+                {"Nombre":"Jutiapa"},
+                {"Nombre":"San Isidro"},
+                {"Nombre":"Sensuntepeque"},
+                {"Nombre":"Tejutepeque"},
+                {"Nombre":"Victoria"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Museo del Agua",
+                    "Imagen":"img/Cabañas/cropped-14925816_340689722957103_4278930856290025242_n.jpg"
+                },
+                {
+                    "Nombre":"Parque Ecologico Bosque De Cinquera",
+                    "Imagen":"img/Cabañas/cinquera5_1.jpg"
+                },
+                {
+                    "Nombre":"Cascada Los Tercios",
+                    "Imagen":"img/Cabañas/los tercios.jpg"
+                }
+            ]
+        },
+        {
+            "Nombre":"Cabañas",
+            "Descripcion":"Cabañas es un departamento de El Salvador que pertenece a la zona central del país. Sus límites geográficos son: al norte y noreste por el río Lempa, que sirve como linea divisoria entre El Salvador y Honduras, al este por San Miguel, al sur por San Vicente y al oeste por Cuscatlán. En realidad este es uno de los departamentos más jóvenes de El Salvador. Su creación data del 10 de febrero de 1873, siendo su cabecera Sensuntepeque. Otra ciudad importantes es Ilobasco, cuna de los muñecos y de las figuras de barro.",
+            "Historia":"Según uno de sus biógrafos, el general hondureño José Trinidad Cabañas; 'era centroamericano por sus ideales y aspiraciones a las que dedicó su vida.' Esto inspiró a los legisladores del país quienes, queriendo honrar la memoria de este valeroso soldado bautizaron con su nombre este departamento el 10 de febrero de 1873 por medio de Decreto Legislativo. Los historiadores afirman que el General Cabañas, peleó al lado del General Francisco Morazán, a quien logró rescatar el 14 de septiembre de 1842, cuando se encontraba situado en San José, Costa Rica. En 1852, el Gral. Cabañas asumió la presidencia de Honduras y luego fue derrocado. Estuvo también al servicio del Gral. Gerardo Barrios, de quien era cuñado. Después de la trágica muerte del patriota Barrios, en 1865, José Trinidad Cabañas se retiró en condiciones precarias, pero con dignidad a Honduras, donde murió el año de 1871. Por decreto legislativo número 262 emitido el 1 de febrero de 1973 y ratificado por el presidente Arturo Armando Molina en el 5 de febrero, a iniciativa del diputado por el departamento de Cabañas don Miguel Apolonio Arévalo Peña, se declaró fiesta nacional el día 10 de febrero de ese año para celebrar el primer centenario de haberse erigido el departamento.2 El actual gobernador departamental es el médico Vicente Rovira Guzmán nombrado en julio de 2009, por el presidente de El Salvador, Mauricio Funes dato desactualizado . El exgobernador departamental por los años 1994-2003, José Arturo Vásquez Machado, fue asesinado el 9 de noviembre de 2009 en la capital San Salvador.",
+            "ImagenDepartamental":"https://lh5.googleusercontent.com/-tDRKcnAhl5s/VOagc5kTnhI/AAAAAAAAHug/oadZijQKBQM/s376/mapa-del-departamento-de-cabanas.png",
+            "Municipios":[
+                {"Nombre":"Cinquera"},
+                {"Nombre":"Dolores"},
+                {"Nombre":"Guacotecti"},
+                {"Nombre":"Ilobasco"},
+                {"Nombre":"Jutiapa"},
+                {"Nombre":"San Isidro"},
+                {"Nombre":"Sensuntepeque"},
+                {"Nombre":"Tejutepeque"},
+                {"Nombre":"Victoria"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Museo del Agua",
+                    "Imagen":"img/Cabañas/cropped-14925816_340689722957103_4278930856290025242_n.jpg"
+                },
+                {
+                    "Nombre":"Parque Ecologico Bosque De Cinquera",
+                    "Imagen":"img/Cabañas/cinquera5_1.jpg"
+                },
+                {
+                    "Nombre":"Cascada Los Tercios",
+                    "Imagen":"img/Cabañas/los tercios.jpg"
+                }
+            ]
+        },
+        {
+            "Nombre":"Cabañas",
+            "Descripcion":"Cabañas es un departamento de El Salvador que pertenece a la zona central del país. Sus límites geográficos son: al norte y noreste por el río Lempa, que sirve como linea divisoria entre El Salvador y Honduras, al este por San Miguel, al sur por San Vicente y al oeste por Cuscatlán. En realidad este es uno de los departamentos más jóvenes de El Salvador. Su creación data del 10 de febrero de 1873, siendo su cabecera Sensuntepeque. Otra ciudad importantes es Ilobasco, cuna de los muñecos y de las figuras de barro.",
+            "Historia":"Según uno de sus biógrafos, el general hondureño José Trinidad Cabañas; 'era centroamericano por sus ideales y aspiraciones a las que dedicó su vida.' Esto inspiró a los legisladores del país quienes, queriendo honrar la memoria de este valeroso soldado bautizaron con su nombre este departamento el 10 de febrero de 1873 por medio de Decreto Legislativo. Los historiadores afirman que el General Cabañas, peleó al lado del General Francisco Morazán, a quien logró rescatar el 14 de septiembre de 1842, cuando se encontraba situado en San José, Costa Rica. En 1852, el Gral. Cabañas asumió la presidencia de Honduras y luego fue derrocado. Estuvo también al servicio del Gral. Gerardo Barrios, de quien era cuñado. Después de la trágica muerte del patriota Barrios, en 1865, José Trinidad Cabañas se retiró en condiciones precarias, pero con dignidad a Honduras, donde murió el año de 1871. Por decreto legislativo número 262 emitido el 1 de febrero de 1973 y ratificado por el presidente Arturo Armando Molina en el 5 de febrero, a iniciativa del diputado por el departamento de Cabañas don Miguel Apolonio Arévalo Peña, se declaró fiesta nacional el día 10 de febrero de ese año para celebrar el primer centenario de haberse erigido el departamento.2 El actual gobernador departamental es el médico Vicente Rovira Guzmán nombrado en julio de 2009, por el presidente de El Salvador, Mauricio Funes dato desactualizado . El exgobernador departamental por los años 1994-2003, José Arturo Vásquez Machado, fue asesinado el 9 de noviembre de 2009 en la capital San Salvador.",
+            "ImagenDepartamental":"https://lh5.googleusercontent.com/-tDRKcnAhl5s/VOagc5kTnhI/AAAAAAAAHug/oadZijQKBQM/s376/mapa-del-departamento-de-cabanas.png",
+            "Municipios":[
+                {"Nombre":"Cinquera"},
+                {"Nombre":"Dolores"},
+                {"Nombre":"Guacotecti"},
+                {"Nombre":"Ilobasco"},
+                {"Nombre":"Jutiapa"},
+                {"Nombre":"San Isidro"},
+                {"Nombre":"Sensuntepeque"},
+                {"Nombre":"Tejutepeque"},
+                {"Nombre":"Victoria"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Museo del Agua",
+                    "Imagen":"img/Cabañas/cropped-14925816_340689722957103_4278930856290025242_n.jpg"
+                },
+                {
+                    "Nombre":"Parque Ecologico Bosque De Cinquera",
+                    "Imagen":"img/Cabañas/cinquera5_1.jpg"
+                },
+                {
+                    "Nombre":"Cascada Los Tercios",
+                    "Imagen":"img/Cabañas/los tercios.jpg"
+                }
+            ]
+        },
+        {
+            "Nombre":"Cabañas",
+            "Descripcion":"Cabañas es un departamento de El Salvador que pertenece a la zona central del país. Sus límites geográficos son: al norte y noreste por el río Lempa, que sirve como linea divisoria entre El Salvador y Honduras, al este por San Miguel, al sur por San Vicente y al oeste por Cuscatlán. En realidad este es uno de los departamentos más jóvenes de El Salvador. Su creación data del 10 de febrero de 1873, siendo su cabecera Sensuntepeque. Otra ciudad importantes es Ilobasco, cuna de los muñecos y de las figuras de barro.",
+            "Historia":"Según uno de sus biógrafos, el general hondureño José Trinidad Cabañas; 'era centroamericano por sus ideales y aspiraciones a las que dedicó su vida.' Esto inspiró a los legisladores del país quienes, queriendo honrar la memoria de este valeroso soldado bautizaron con su nombre este departamento el 10 de febrero de 1873 por medio de Decreto Legislativo. Los historiadores afirman que el General Cabañas, peleó al lado del General Francisco Morazán, a quien logró rescatar el 14 de septiembre de 1842, cuando se encontraba situado en San José, Costa Rica. En 1852, el Gral. Cabañas asumió la presidencia de Honduras y luego fue derrocado. Estuvo también al servicio del Gral. Gerardo Barrios, de quien era cuñado. Después de la trágica muerte del patriota Barrios, en 1865, José Trinidad Cabañas se retiró en condiciones precarias, pero con dignidad a Honduras, donde murió el año de 1871. Por decreto legislativo número 262 emitido el 1 de febrero de 1973 y ratificado por el presidente Arturo Armando Molina en el 5 de febrero, a iniciativa del diputado por el departamento de Cabañas don Miguel Apolonio Arévalo Peña, se declaró fiesta nacional el día 10 de febrero de ese año para celebrar el primer centenario de haberse erigido el departamento.2 El actual gobernador departamental es el médico Vicente Rovira Guzmán nombrado en julio de 2009, por el presidente de El Salvador, Mauricio Funes dato desactualizado . El exgobernador departamental por los años 1994-2003, José Arturo Vásquez Machado, fue asesinado el 9 de noviembre de 2009 en la capital San Salvador.",
+            "ImagenDepartamental":"https://lh5.googleusercontent.com/-tDRKcnAhl5s/VOagc5kTnhI/AAAAAAAAHug/oadZijQKBQM/s376/mapa-del-departamento-de-cabanas.png",
+            "Municipios":[
+                {"Nombre":"Cinquera"},
+                {"Nombre":"Dolores"},
+                {"Nombre":"Guacotecti"},
+                {"Nombre":"Ilobasco"},
+                {"Nombre":"Jutiapa"},
+                {"Nombre":"San Isidro"},
+                {"Nombre":"Sensuntepeque"},
+                {"Nombre":"Tejutepeque"},
+                {"Nombre":"Victoria"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Museo del Agua",
+                    "Imagen":"img/Cabañas/cropped-14925816_340689722957103_4278930856290025242_n.jpg"
+                },
+                {
+                    "Nombre":"Parque Ecologico Bosque De Cinquera",
+                    "Imagen":"img/Cabañas/cinquera5_1.jpg"
+                },
+                {
+                    "Nombre":"Cascada Los Tercios",
+                    "Imagen":"img/Cabañas/los tercios.jpg"
+                }
+            ]
+        },
+        {
+            "Nombre":"Cabañas",
+            "Descripcion":"Cabañas es un departamento de El Salvador que pertenece a la zona central del país. Sus límites geográficos son: al norte y noreste por el río Lempa, que sirve como linea divisoria entre El Salvador y Honduras, al este por San Miguel, al sur por San Vicente y al oeste por Cuscatlán. En realidad este es uno de los departamentos más jóvenes de El Salvador. Su creación data del 10 de febrero de 1873, siendo su cabecera Sensuntepeque. Otra ciudad importantes es Ilobasco, cuna de los muñecos y de las figuras de barro.",
+            "Historia":"Según uno de sus biógrafos, el general hondureño José Trinidad Cabañas; 'era centroamericano por sus ideales y aspiraciones a las que dedicó su vida.' Esto inspiró a los legisladores del país quienes, queriendo honrar la memoria de este valeroso soldado bautizaron con su nombre este departamento el 10 de febrero de 1873 por medio de Decreto Legislativo. Los historiadores afirman que el General Cabañas, peleó al lado del General Francisco Morazán, a quien logró rescatar el 14 de septiembre de 1842, cuando se encontraba situado en San José, Costa Rica. En 1852, el Gral. Cabañas asumió la presidencia de Honduras y luego fue derrocado. Estuvo también al servicio del Gral. Gerardo Barrios, de quien era cuñado. Después de la trágica muerte del patriota Barrios, en 1865, José Trinidad Cabañas se retiró en condiciones precarias, pero con dignidad a Honduras, donde murió el año de 1871. Por decreto legislativo número 262 emitido el 1 de febrero de 1973 y ratificado por el presidente Arturo Armando Molina en el 5 de febrero, a iniciativa del diputado por el departamento de Cabañas don Miguel Apolonio Arévalo Peña, se declaró fiesta nacional el día 10 de febrero de ese año para celebrar el primer centenario de haberse erigido el departamento.2 El actual gobernador departamental es el médico Vicente Rovira Guzmán nombrado en julio de 2009, por el presidente de El Salvador, Mauricio Funes dato desactualizado . El exgobernador departamental por los años 1994-2003, José Arturo Vásquez Machado, fue asesinado el 9 de noviembre de 2009 en la capital San Salvador.",
+            "ImagenDepartamental":"https://lh5.googleusercontent.com/-tDRKcnAhl5s/VOagc5kTnhI/AAAAAAAAHug/oadZijQKBQM/s376/mapa-del-departamento-de-cabanas.png",
+            "Municipios":[
+                {"Nombre":"Cinquera"},
+                {"Nombre":"Dolores"},
+                {"Nombre":"Guacotecti"},
+                {"Nombre":"Ilobasco"},
+                {"Nombre":"Jutiapa"},
+                {"Nombre":"San Isidro"},
+                {"Nombre":"Sensuntepeque"},
+                {"Nombre":"Tejutepeque"},
+                {"Nombre":"Victoria"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Museo del Agua",
+                    "Imagen":"img/Cabañas/cropped-14925816_340689722957103_4278930856290025242_n.jpg"
+                },
+                {
+                    "Nombre":"Parque Ecologico Bosque De Cinquera",
+                    "Imagen":"img/Cabañas/cinquera5_1.jpg"
+                },
+                {
+                    "Nombre":"Cascada Los Tercios",
+                    "Imagen":"img/Cabañas/los tercios.jpg"
+                }
+            ]
         }
     ]
 

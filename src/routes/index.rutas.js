@@ -1,7 +1,6 @@
 const {Router}=require("express");
 const router=Router();
 
-//const { renderIndex, renderPC, renderPanas }=require("../controllers/index.controller")
 const { renderIndex, renderAhuachapan, renderCabañas, renderChalate, renderCusca, renderLiber, renderMiguel, renderMorazan, renderPaz, renderSantaA, renderSivar, renderSonso, renderUnion, renderUsulu, renderVicente}=require("../controllers/index.controllers")
 
 /*Para la ruta principal */
