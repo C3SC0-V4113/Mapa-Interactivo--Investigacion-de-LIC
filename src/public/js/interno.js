@@ -87,53 +87,85 @@ function CreadorPagina() {
     texto += "</div>";
     texto += "</div>";
     //CENTROS TURISTICOS
-    texto += "<h2>Centros Turisticos</h2>";
-    //
-    texto += "<div id='Carrusel' class='carousel slide' data-ride='carousel'>";
-    texto += "<ol class='carousel-indicators'>";
-    texto += "<li data-target='#Carrusel' data-slide-to='0' class='active'></li>"
-    for (let i = 1; i < Departamento.CentrosTuristicos.length ; i++) {
-        texto += "<li data-target='#Carrusel' data-slide-to=\"" + i + "\" class='active'></li>"
-    }
-    texto += "</ol>";
-    texto += "<div class='carousel-inner'>";
-    //
-    texto += "<div class='carousel-item active'>";
-    texto += "<img class='d-block w-100' name='myImg' src=\"" + Departamento.CentrosTuristicos[0].Imagen + "\" alt=\"" + Departamento.CentrosTuristicos[0].Nombre + "\">";
-    texto += "<div class='carousel-caption d-none d-md-block'>"
-    texto += "<h5>" + Departamento.CentrosTuristicos[0].Nombre + "</h5>"
-    texto += "</div>";
+    texto += SitiosTuristicos(Departamento.CentrosTuristicos);
     texto += "</div>";
     //
-    for (let i = 1; i < Departamento.CentrosTuristicos.length ; i++) {
-        texto += "<div class='carousel-item'>";
-        texto += "<img class='d-block w-100' name='myImg' src=\"" + Departamento.CentrosTuristicos[i].Imagen + "\" alt=\"" + Departamento.CentrosTuristicos[i].Nombre + "\">";
+    return texto;
+}
+
+function SitiosTuristicos(Sitios) {
+    var texto = "";
+    if (Sitios.length == 0) {
+        texto = "";
+    } else if (Sitios.length == 1) {
+        texto += "<h2>Centros Turisticos</h2>";
+        //
+        texto += "<div id='Carrusel' class='carousel slide' data-ride='carousel'>";
+        texto += "<div class='carousel-inner'>";
+        //
+        texto += "<div class='carousel-item active'>";
+        texto += "<img class='d-block w-100' name='myImg' src=\"" + Sitios[0].Imagen + "\" alt=\"" + Sitios[0].Nombre + "\">";
         texto += "<div class='carousel-caption d-none d-md-block'>"
-        texto += "<h5>" + Departamento.CentrosTuristicos[i].Nombre + "</h5>"
+        texto += "<h5>" + Sitios[0].Nombre + "</h5>"
         texto += "</div>";
+        texto += "</div>";
+        texto += "</div>";
+        //
+        texto += "</div>";
+        //
+        texto += "<div id='myModal' class='modal'>";
+        texto += "<span class='close'>&times;</span>";
+        texto += "<img class='modal-content' id='img01'>";
+        texto += "<div id='caption'></div>"
         texto += "</div>";
     }
-    //
-    texto += "</div>";
-    //
-    texto += "<a class='carousel-control-prev' href='#Carrusel' role='button' data-slide='prev'>";
-    texto += "<span class='carousel-control-prev-icon' aria-hidden='true'></span>";
-    texto += "<span class='sr-only'>Previous</span>";
-    texto += "</a>";
-    //
-    texto += "<a class='carousel-control-next' href='#Carrusel' role='button' data-slide='next'>";
-    texto += "<span class='carousel-control-next-icon' aria-hidden='true'></span>";
-    texto += "<span class='sr-only'>Next</span>";
-    texto += "</a>";
-    //
-    texto += "</div>";
-    //
-    texto += "<div id='myModal' class='modal'>";
-    texto += "<span class='close'>&times;</span>";
-    texto += "<img class='modal-content' id='img01'>";
-    texto += "<div id='caption'></div>"
-    texto += "</div>";
-    texto += "</div>";
-    //
+    else {
+        texto += "<h2>Centros Turisticos</h2>";
+        //
+        texto += "<div id='Carrusel' class='carousel slide' data-ride='carousel'>";
+        texto += "<ol class='carousel-indicators'>";
+        texto += "<li data-target='#Carrusel' data-slide-to='0' class='active'></li>"
+        for (let i = 1; i < Sitios.length; i++) {
+            texto += "<li data-target='#Carrusel' data-slide-to=\"" + i + "\" class='active'></li>"
+        }
+        texto += "</ol>";
+        texto += "<div class='carousel-inner'>";
+        //
+        texto += "<div class='carousel-item active'>";
+        texto += "<img class='d-block w-100' name='myImg' src=\"" + Sitios[0].Imagen + "\" alt=\"" + Sitios[0].Nombre + "\">";
+        texto += "<div class='carousel-caption d-none d-md-block'>"
+        texto += "<h5>" + Sitios[0].Nombre + "</h5>"
+        texto += "</div>";
+        texto += "</div>";
+        //
+        for (let i = 1; i < Sitios.length; i++) {
+            texto += "<div class='carousel-item'>";
+            texto += "<img class='d-block w-100' name='myImg' src=\"" + Sitios[i].Imagen + "\" alt=\"" + Sitios[i].Nombre + "\">";
+            texto += "<div class='carousel-caption d-none d-md-block'>"
+            texto += "<h5>" + Sitios[i].Nombre + "</h5>"
+            texto += "</div>";
+            texto += "</div>";
+        }
+        //
+        texto += "</div>";
+        //
+        texto += "<a class='carousel-control-prev' href='#Carrusel' role='button' data-slide='prev'>";
+        texto += "<span class='carousel-control-prev-icon' aria-hidden='true'></span>";
+        texto += "<span class='sr-only'>Previous</span>";
+        texto += "</a>";
+        //
+        texto += "<a class='carousel-control-next' href='#Carrusel' role='button' data-slide='next'>";
+        texto += "<span class='carousel-control-next-icon' aria-hidden='true'></span>";
+        texto += "<span class='sr-only'>Next</span>";
+        texto += "</a>";
+        //
+        texto += "</div>";
+        //
+        texto += "<div id='myModal' class='modal'>";
+        texto += "<span class='close'>&times;</span>";
+        texto += "<img class='modal-content' id='img01'>";
+        texto += "<div id='caption'></div>"
+        texto += "</div>";
+    }
     return texto;
 }
