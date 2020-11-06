@@ -1,0 +1,85 @@
+{
+    "titulo":"República de El Salvador",
+    "descripcion":"El pulgarcito de América",
+    "idioma":"es",
+    "departamentos":[
+        {
+            "Nombre":"Ahuachapán",
+            "Descripcion":"El departamento de Ahuachapán (Del Idioma Náhuat Ajwech-apan (Río de rocío)) es el más occidental de los 14 departamentos en los que está dividida la República de El Salvador. Su cabecera, la ciudad de Ahuachapán se encuentra a 100 km de San Salvador (capital de la república). El departamento tiene una extensión de 1.239,60 km². Colinda al norte con el departamento de Santa Ana , al noreste y al este con el departamento de Jutiapa de Guatemala, al sur con el Océano Pacífico y al oeste con el departamento de Sonsonate.",
+            "Historia":"Ahuachapán fue fundado en el siglo V por los mayas de la tribu pokomames, y sometida en el siglo XV por belicosos Náhuas de Kuskatan de los izalcos. Gradualmente la región fue invadida por los españoles. En el 22 de agosto de 1823, se le dio el título de villa al pueblo de Ahuachapán. En el informe de mejoras materiales del departamento de Sonsonate hecho por el gobernador Teodoro Moreno en el 21 de junio de 1854, notó: 'Se está edificando el cabildo, dándole una capacidad suficiente para contener tres oficinas: hay abundantes materiales; sin embargo a causa de las lluvias se ha suspendido esta obra, que deberá ser de azotea. Hay suficientes materiales para la construcción de una cárcel, destinada a la recepción de los reos enfermos; obra exclusiva de su actual Juez de 1ª instancia Sr. Lic. D. Quirino Escalón. La Iglesia parroquial ha recibido grandes mejoras, que le ha procurado su benemérito Cura el Sr. Dr. D. Isidro Menéndez. Para el mes de Agosto próximo estará concluido el altar mayor: es una obra primorosa y de buen gusto: quedará también concluido el enlosado del atrio, y la alameda que deberá circunvalar aquel edificio.' En el informe del 6 de septiembre el gobernador Tomás Medina, notó: 'Se han compuesto únicamente los caminos reales.' ,En el informe del 12 de octubre, el gobernador Tomás Medina, notó: En una de las entradas de aquella Villa se hizo una calzada de más de 200 varas, según el informe que tengo a la vista.'",
+            "ImagenDepartamental":"https://lh6.googleusercontent.com/-hYMvjS1tUCI/VOaYrbtaN4I/AAAAAAAAHtI/_kmcd79d0Fs/s392/mapa-del-departamento-de-ahuachapan.png",
+            "Municipios":[
+                {"Nombre":"Ahuachapán"},
+                {"Nombre":"Apaneca"},
+                {"Nombre":"Atiquizaya"},
+                {"Nombre":"Concepción de Ataco"},
+                {"Nombre":"El Refugio"},
+                {"Nombre":"Guaymango"},
+                {"Nombre":"Jujutla"},
+                {"Nombre":"San Francisco Menéndez"},
+                {"Nombre":"San Lorenzo"},
+                {"Nombre":"San Pedro Puxtla"},
+                {"Nombre":"Tacuba"},
+                {"Nombre":"Turín"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Los Ausoles",
+                    "Imagen":"img/Auachapan/800px-Ausoles.jpg"
+                },
+                {
+                    "Nombre":"Plaza Mayor",
+                    "Imagen":"img/Auachapan/Ahuachapan-plaza mayor.jpg"
+                },
+                {
+                    "Nombre":"Parque Concordia",
+                    "Imagen":"img/Auachapan/concordia.jpg"
+                },
+                {
+                    "Nombre":"Parroquia Jalostotitlan",
+                    "Imagen":"img/Auachapan/jalostotitlan.jpg"
+                },
+                {
+                    "Nombre":"Laguna del Espino",
+                    "Imagen":"img/Auachapan/laguna-el-espino-1.jpg"
+                },
+                {
+                    "Nombre":"Pasaje de Concordia",
+                    "Imagen":"img/Auachapan/pasaje concordia.jpg"
+                }
+            ]
+        },
+        {
+            "Nombre":"Cabañas",
+            "Descripcion":"Cabañas es un departamento de El Salvador que pertenece a la zona central del país. Sus límites geográficos son: al norte y noreste por el río Lempa, que sirve como linea divisoria entre El Salvador y Honduras, al este por San Miguel, al sur por San Vicente y al oeste por Cuscatlán. En realidad este es uno de los departamentos más jóvenes de El Salvador. Su creación data del 10 de febrero de 1873, siendo su cabecera Sensuntepeque. Otra ciudad importantes es Ilobasco, cuna de los muñecos y de las figuras de barro.",
+            "Historia":"Según uno de sus biógrafos, el general hondureño José Trinidad Cabañas; 'era centroamericano por sus ideales y aspiraciones a las que dedicó su vida.' Esto inspiró a los legisladores del país quienes, queriendo honrar la memoria de este valeroso soldado bautizaron con su nombre este departamento el 10 de febrero de 1873 por medio de Decreto Legislativo. Los historiadores afirman que el General Cabañas, peleó al lado del General Francisco Morazán, a quien logró rescatar el 14 de septiembre de 1842, cuando se encontraba situado en San José, Costa Rica. En 1852, el Gral. Cabañas asumió la presidencia de Honduras y luego fue derrocado. Estuvo también al servicio del Gral. Gerardo Barrios, de quien era cuñado. Después de la trágica muerte del patriota Barrios, en 1865, José Trinidad Cabañas se retiró en condiciones precarias, pero con dignidad a Honduras, donde murió el año de 1871. Por decreto legislativo número 262 emitido el 1 de febrero de 1973 y ratificado por el presidente Arturo Armando Molina en el 5 de febrero, a iniciativa del diputado por el departamento de Cabañas don Miguel Apolonio Arévalo Peña, se declaró fiesta nacional el día 10 de febrero de ese año para celebrar el primer centenario de haberse erigido el departamento.2 El actual gobernador departamental es el médico Vicente Rovira Guzmán nombrado en julio de 2009, por el presidente de El Salvador, Mauricio Funes dato desactualizado . El exgobernador departamental por los años 1994-2003, José Arturo Vásquez Machado, fue asesinado el 9 de noviembre de 2009 en la capital San Salvador.",
+            "ImagenDepartamental":"https://lh5.googleusercontent.com/-tDRKcnAhl5s/VOagc5kTnhI/AAAAAAAAHug/oadZijQKBQM/s376/mapa-del-departamento-de-cabanas.png",
+            "Municipios":[
+                {"Nombre":"Cinquera"},
+                {"Nombre":"Dolores"},
+                {"Nombre":"Guacotecti"},
+                {"Nombre":"Ilobasco"},
+                {"Nombre":"Jutiapa"},
+                {"Nombre":"San Isidro"},
+                {"Nombre":"Sensuntepeque"},
+                {"Nombre":"Tejutepeque"},
+                {"Nombre":"Victoria"}
+            ],
+            "CentrosTuristicos":[
+                {
+                    "Nombre":"Museo del Agua",
+                    "Imagen":"img/Cabañas/cropped-14925816_340689722957103_4278930856290025242_n.jpg"
+                },
+                {
+                    "Nombre":"Parque Ecologico Bosque De Cinquera",
+                    "Imagen":"img/Cabañas/cinquera5_1.jpg"
+                },
+                {
+                    "Nombre":"Cascada Los Tercios",
+                    "Imagen":"img/Cabañas/los tercios.jpg"
+                }
+            ]
+        }
+    ]
+
+}
