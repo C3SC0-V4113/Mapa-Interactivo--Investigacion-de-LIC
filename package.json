@@ -20,10 +20,14 @@
   "homepage": "https://github.com/C3SC0-V4113/Mapa-Interactivo--Investigacion-de-LIC#readme",
   "description": "",
   "devDependencies": {
+    "concurrently": "^7.1.0",
     "nodemon": "^2.0.6"
   },
   "dependencies": {
+    "dotenv": "^16.0.0",
     "express": "^4.17.1",
-    "express-handlebars": "^5.2.0"
+    "express-async-handler": "^1.2.0",
+    "express-handlebars": "^5.2.0",
+    "mongoose": "^6.3.1"
   }
 }
