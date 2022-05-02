@@ -2,7 +2,7 @@ import { createSlice, createAsyncThunk } from '@reduxjs/toolkit'
 import depaService from './depaService'
 
 const initialState = {
-    goals: [],
+    depa: [],
     isError: false,
     isSuccess: false,
     isLoading: false,
@@ -11,10 +11,10 @@ const initialState = {
 
 // Obtener Departamentos
 export const getDepa = createAsyncThunk(
-    'depa/getAll',
-    async (_, thunkAPI) => {
+    'departamentos/get',
+    async (id, thunkAPI) => {
       try {
-        return await depaService.getDepa();
+        return await depaService.getDepaId(id);
       } catch (error) {
         const message =
           (error.response &&
@@ -41,7 +41,7 @@ export const getDepa = createAsyncThunk(
       .addCase(getDepa.fulfilled, (state, action) => {
         state.isLoading = false
         state.isSuccess = true
-        state.goals = action.payload
+        state.depa = action.payload
       })
       .addCase(getDepa.rejected, (state, action) => {
         state.isLoading = false

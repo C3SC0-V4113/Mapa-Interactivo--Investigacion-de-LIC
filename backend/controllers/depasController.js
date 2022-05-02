@@ -48,10 +48,22 @@ const deleteDepa = asyncHandler(async (req, res) => {
   
     res.status(200).json({ id: req.params.id })
   })
+
+const getDepaID=asyncHandler(async (req, res) => {
+  const depa=await Departamento.findById(req.params.id)
+
+  if (!depa) {
+    res.status(400)
+    throw new Error('Departamento no encontrado')
+  }else{
+    res.status(200).json(depa)
+  }
+})
   
 
   module.exports={
       getDepa,
       setDepa,
       deleteDepa,
+      getDepaID,
   }

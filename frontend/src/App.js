@@ -24,7 +24,7 @@ function App() {
               <div class="col-12 col-md-10 text-center">
                 <Routes>
                   <Route path="/" element={<Main />} />
-                  <Route path="/departamento" element={<Departamento />} />
+                  <Route path="/departamento/:id" element={<Departamento />} />
                 </Routes>
               </div>
             </div>
