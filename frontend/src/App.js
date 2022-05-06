@@ -4,33 +4,38 @@ import "./App.css";
 import "./public/light-mode.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import Nav from "./components/Nav";
+import Navegador from "./components/Nav";
 import Main from "./pages/Main";
 import Departamento from "./pages/Departamento";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 
 function App() {
   return (
     <>
       <Router>
-        <div className="container p-4" id="cuerpo">
-          <Header />
-          <div class="container p-4" id="cuerpo">
-            <div class="row">
-              <div class="col-12 col-md-2">
-                <Nav />
-              </div>
-              <div class="col-12 col-md-10 text-center">
-                <Routes>
-                  <Route path="/" element={<Main />} />
-                  <Route path="/departamento/:id" element={<Departamento />} />
-                </Routes>
-              </div>
-            </div>
-          </div>
-          <Footer />
-        </div>
+        <Container id="cuerpo">
+          <Row className="p-4" >
+            <Header />
+          </Row>
+          <Row>
+            <Col xs={12} md={2}>
+              <Navegador />
+            </Col>
+            <Col xs={12} md={10}>
+              <Routes>
+                <Route path="/" element={<Main />} />
+                <Route path="/departamento/:id" element={<Departamento />} />
+              </Routes>
+            </Col>
+          </Row>
+          <Row className="p-4" >
+            <Col>
+              <Footer />
+            </Col>
+          </Row>
+        </Container>
       </Router>
     </>
   );

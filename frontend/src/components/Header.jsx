@@ -1,12 +1,9 @@
 function Header() {
   return (
     <>
-      <div class="row text-center">
-        <div class="col-12">
-          <p>
-            <a name="arriba"></a>
-            <h1 class="degradadoh1">República de El Salvador</h1>
-          </p>
+      <div className="row text-center">
+        <div className="col-12">
+            <h1 className="degradadoh1">República de El Salvador</h1>
           <h4>El pulgarcito de América</h4>
         </div>
       </div>
