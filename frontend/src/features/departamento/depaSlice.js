@@ -11,10 +11,10 @@ const initialState = {
 
 // Obtener Departamentos
 export const getDepa = createAsyncThunk(
-    'departamentos/get',
-    async (id, thunkAPI) => {
+    'departamentos/getAll',
+    async (_, thunkAPI) => {
       try {
-        return await depaService.getDepaId(id);
+        return await depaService.getDepas();
       } catch (error) {
         const message =
           (error.response &&

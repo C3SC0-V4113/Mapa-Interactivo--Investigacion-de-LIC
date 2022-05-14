@@ -10,8 +10,14 @@ const getDepaId=async(depaId)=>{
     return response.data
 }
 
+const getDepas=async()=>{
+    const response=await axios.request(API_URL)
+    return response.data
+}
+
 const depaService={
     getDepaId,
+    getDepas,
 }
 
 export default depaService
